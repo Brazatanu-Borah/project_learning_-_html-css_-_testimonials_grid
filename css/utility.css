@@ -1,0 +1,23 @@
+.b-t {
+  color: #232323;
+}
+
+.w-t {
+  color: #f4f4f4;
+}
+
+.h-center {
+  display: flex;
+  justify-content: center;
+}
+
+.v-center {
+  display: flex;
+  align-items: center;
+}
+
+.c-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
